@@ -1,0 +1,26 @@
+
+.chessBoard{
+    /* /align-content: center; */
+    margin: 10px;
+    height: 600px;
+    width: 600px;
+    border: 5px solid black;
+    left: 25%
+    position: center;
+}
+
+.black {
+    /* align-content: center; */
+    background-color: black;
+    width: 75px;
+    height: 75px;
+    float: left;
+}
+
+.white {
+    /* align-content: center; */
+    background-color: white;
+    width: 75px;
+    height: 75px;
+    float: left
+}
